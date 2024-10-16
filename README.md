@@ -4,6 +4,7 @@
 
 ```bash
 cd
+rm -rf stage-lights
 git clone https://github.com/3lv/stage-lights
 bash stage-lights/install.sh
 ```
